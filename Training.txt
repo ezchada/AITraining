@@ -1,0 +1,5 @@
+Welcome to GOT Academy
+
+The course details are as follows
+1. Text preprocessing
+2. Text removal
