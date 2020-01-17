@@ -6,3 +6,4 @@ The course details are as follows
 
 3. EDA
 4. ML
+5. DL
